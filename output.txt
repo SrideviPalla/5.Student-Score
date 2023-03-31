@@ -1,0 +1,5 @@
+output:
+
+Student ID	Total Score1		40
+2		41
+
